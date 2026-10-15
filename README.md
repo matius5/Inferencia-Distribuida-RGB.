@@ -9,7 +9,7 @@
 
 Este repositorio reúne el código entregado por el equipo para clasificar lecturas **RGB** (rojo, verde y azul) utilizando un **árbol de decisión CART** construido en Python puro con el criterio de impureza **Gini**. El archivo principal es [`codigo/model2.py`](codigo/model2.py).
 
-**Importante:** este archivo implementa entrenamiento y predicción locales. **No contiene por sí mismo** un servidor Flask, un cliente remoto ni una demostración de transmisión entre dispositivos. Las funciones de inferencia distribuida solo podrán acreditarse cuando se incluya el programa de comunicación y su evidencia real.
+
 
 ## 2. Objetivo
 
