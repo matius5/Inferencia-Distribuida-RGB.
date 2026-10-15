@@ -2,7 +2,7 @@
 
 **Asignatura:** Sistemas Inteligentes para Electrónica  
 **Actividad:** Inferencia distribuida  
-**Equipo:** Mateo, Jesús R. y Daniel (según encabezado del código original)  
+**Equipo:** Mateo, Jesús R. y Daniel 
 **Estado:** Clasificador local disponible; comunicación distribuida pendiente de documentar con evidencia.
 
 ## 1. Resumen
